@@ -1,3 +1,6 @@
+PLEASE WHILE RUNNING DELETE THE INDEX.HTML FILE WHICH IS OUTSIDE AND NOT THE ONE IN PUBLIC FOLDER
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
